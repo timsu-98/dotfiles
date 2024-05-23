@@ -1,0 +1,9 @@
+[submodule "dependencies/.tmux"]
+	path = dependencies/.tmux
+	url = git@github.com:timsu-98/.tmux.git
+[submodule "dependencies/vimrc"]
+	path = dependencies/vimrc
+	url = git@github.com:timsu-98/vimrc.git
+[submodule "dependencies/bashrc"]
+	path = dependencies/bashrc
+	url = git@github.com:timsu-98/bashrc.git
